@@ -1,4 +1,4 @@
-<img src = "banner.gif" widht = "150px" align = "right">
+<img src = "banner.gif" width = "150px" align = "right">
 
 # Seja bem vindo(a) a meu portifólio sinta-se a vontade para entrar em contato comigo e olhar o que tenho produzido.
 Sou desenvolvedor, atuando principalmente em python e estou finalizando minha graduação em Engenharia da Computação pela PUC-GO
