@@ -14,7 +14,7 @@
 
 Welcome to my portfolio, feel free to get to know me a little more
 
-##Public Information
+## Public Information
 
 My name is Guilherme Tiede. I currently live in Goiânia-GO, Brazil, and my work is to sudy Computer Engineering at PUC-GO.
 
