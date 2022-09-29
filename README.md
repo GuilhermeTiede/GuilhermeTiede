@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
     </div>
-## Hello There
+## Hello there
 
 Welcome to my portfolio, feel free to get to know me a little more
 
