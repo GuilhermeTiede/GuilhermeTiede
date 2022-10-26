@@ -8,7 +8,6 @@
         <a target="_blank" href="mailto:guilhermediastiede@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
-        </a>
         <a target="_blank" href="https://wa.me/5562996569440" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
         </a>
