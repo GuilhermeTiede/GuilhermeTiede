@@ -5,7 +5,7 @@
         <a target="_blank" href="https://linkedin.com/in/guilherme-tiede">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        <a target="_blank" href="mailto:guilhermediastiede@gmail.com">
+        <a href="mailto:guilhermediastiede@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
         </a>
         <a target="_blank" href="https://wa.me/5562996569440" rel="noopener noreferrer">
