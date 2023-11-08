@@ -19,7 +19,7 @@ Welcome to my portfolio, feel free to get to know me a little more
 
 ## Public Information
 
-My name is Guilherme Tiede. I currently live in Goiânia-GO, Brazil, and my work is to sudy Computer Engineering at PUC-GO.
+My name is Guilherme Tiede. I currently live in Itumbiara-GO, Brazil, and currently i work in Fui Gostei Trips Tour Agency.
 
 On my free time, i like to study new things in the world of technology and learn new languages.
 
@@ -28,7 +28,7 @@ On my free time, i like to study new things in the world of technology and learn
 * **Name:** Guilherme Tiede
 * **Age:** 22
 * **Living in:** Goiânia - Goiás, Brazil
-* **Stack:** JavaScript - HTML - CSS - Python - C++ - SQL
+* **Stack:** PHP - Laravel - VueJs - Python - SQL - Redis
 * **Uiversity:** Pontifical Catholic University of Goiás, the 3rd best private university in Brazil.
 * **Prizes:** Alpha Down scientific initiation at PUC-GO
 
