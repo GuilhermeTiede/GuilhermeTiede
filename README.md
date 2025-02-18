@@ -26,9 +26,14 @@ On my free time, i like to study new things in the world of technology and learn
 ## Detailed Information
 
 * **Name:** Guilherme Tiede
-* **Age:** 22
-* **Living in:** Goiânia - Goiás, Brazil
-* **Stack:** PHP - Laravel - VueJs - Python - SQL - Redis
+* **Age:** 24
+* **Living in:** Florianópolis - Santa Catarina, Brazil
+* **Linguagens:** PHP - JavaScript - TypeScript - SQL
+* **Back-end:** Laravel - Spring Boot - Node.js
+* **Front-end:** VueJs - React - Angular - Inertia.js
+* **Banco de Dados:** MySQL - PostgreSQL - Redis
+* **Estilização:** Bootstrap 5 - Tailwind CSS
+* **Infraestrutura & DevOps:** Docker - CI/CD - Git - Git Flow - AWS
 * **Uiversity:** Pontifical Catholic University of Goiás, the 3rd best private university in Brazil.
 * **Prizes:** Alpha Down scientific initiation at PUC-GO
 
