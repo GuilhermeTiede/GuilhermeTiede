@@ -15,7 +15,7 @@
 
 ## Hello there
 
-Welcome to my portfolio, feel free to get to know me a little more
+Welcome to my portfolio, feel free to get to know me a little more.
 
 ## Public Information
 
